@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns2:listarResponse xmlns:ns2="http://ws.exemplos.fiap.br/">
+         <return>
+            <media>8.0</media>
+            <nome>Rodrigo Rocha</nome>
+            <turma>27SCJ</turma>
+         </return>
+         <return>
+            <media>8.9</media>
+            <nome>Rodrigo Rocha</nome>
+            <turma>27SCJ</turma>
+         </return>
+      </ns2:listarResponse>
+   </S:Body>
+</S:Envelope>
